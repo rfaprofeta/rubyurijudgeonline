@@ -1,1 +1,1 @@
-UriChalleng texts on ruby
+UriChalleng test on ruby
